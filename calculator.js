@@ -58,8 +58,7 @@ function calculator(operation, a, b) {
 
 // Add Function
 function add(a, b) {
-    let x = a + b;
-    return x;
+    return a + b;
 }
 
 // Subtract Function
