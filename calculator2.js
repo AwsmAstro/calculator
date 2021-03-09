@@ -13,13 +13,6 @@
     PRESS CTRL + C TO EXIT
 */
 
-const readConsole = require('readline'); // Reads console input
-
-const value = readConsole.createInterface({
-  input: process.stdin,
-  output: process.stdout
-});
-
 let input = process.argv.slice(2);
 
 //Run "Main"
