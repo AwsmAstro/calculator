@@ -2,32 +2,32 @@
 
 # Basic Calculator
     
-    OPTIMIZED FOR MANUAL TESTING
+OPTIMIZED FOR MANUAL TESTING
 
-    USAGE
+USAGE
 
-    RUN
-    node calculator.js
-    
-    ENTER "OPERATION a b"
-    EXAMPLE "add 1 2"
+RUN
+`node calculator.js`
 
-    OPERATIONS: (add, subtract, multiply, divide)
+ENTER "OPERATION a b"
+EXAMPLE "add 1 2"
 
-    PRESS CTRL + C TO EXIT
+OPERATIONS: (add, subtract, multiply, divide)
+
+PRESS CTRL + C TO EXIT
 
 # Basic Caculator 2
-    OPTIMIZED FOR AUTOMATED TESTING
+OPTIMIZED FOR AUTOMATED TESTING
 
-    USAGE
+USAGE
 
-    run file and pass in necessary commandline Arguments
+run file and pass in necessary commandline Arguments
 
-    node calculator2.js OPERATION a b
-    
-    EXAMPLE 
-    node calculator2.js add 1 2
+`node calculator2.js OPERATION a b`
 
-    OPERATIONS: (add, subtract, multiply, divide)
+EXAMPLE 
+`node calculator2.js add 1 2`
 
-    PRESS CTRL + C TO EXIT
+OPERATIONS: (add, subtract, multiply, divide)
+
+PRESS CTRL + C TO EXIT
